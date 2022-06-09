@@ -1,7 +1,4 @@
-# APIs
-## Promise,Fetch
-## Async,await
-### Udemy
+## Udemy
 # Yandex Translate API
 # Exchange Rates API
 # Github API
